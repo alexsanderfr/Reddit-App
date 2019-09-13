@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reddit App</string>
+    <string name="connectivity_error">Connectivity error. Maybe you should check your internet connection?</string>
+    <string name="margin_color">Margin color</string>
+    <string name="post_image">Post image</string>
+    <string name="search_hint">Type the name of a subreddit</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="results">Results</string>
+
+    <string name="title_activity_fullscreen_image">FullscreenImageActivity</string>
+    <string name="close_button">Close</string>
+    <string name="refresh">Refresh</string>
+    <string name="retry">Retry</string>
+    <string name="add_subreddit">Add subreddit</string>
+    <string name="share_fab_content_description">Click here to share</string>
+    <string name="preference_file_key">sharedpref</string>
+    <string name="position">position</string>
+    <string name="subreddit">subreddit</string>
+    <string name="spacing"> - </string>
+</resources>
