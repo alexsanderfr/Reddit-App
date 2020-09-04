@@ -1,7 +1,7 @@
 # Reddit App
 
-App for browsing reddit
- 
+Reddit browser app
+
 ### Screenshots
 
 ![](https://raw.githubusercontent.com/alexsanderfr/Reddit-App/master/images/Screenshot_1.png)
