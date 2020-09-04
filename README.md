@@ -1,7 +1,7 @@
 # Reddit App
 
-Reddit app for Udacity's Android Developer Nanodegree
-
+App for browsing reddit
+ 
 ### Screenshots
 
 ![](https://raw.githubusercontent.com/alexsanderfr/Reddit-App/master/images/Screenshot_1.png)
